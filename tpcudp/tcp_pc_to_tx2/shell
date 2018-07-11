@@ -1,0 +1,5 @@
+gcc -o $objc $EXEC clconn2.o initsrv2.o -lapue
+
+cd /home/nvidia/Documents/smartcable/network/tcp_pc_to_tx2
+./tcp_server 2345
+

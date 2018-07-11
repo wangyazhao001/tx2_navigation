@@ -1,0 +1,36 @@
+参照博客 
+http://blog.csdn.net/zz2862625432/article/details/78112707
+http://blog.csdn.net/littlethunder/article/details/51920681
+配置网络的时候需要看下自己的端口是什么.
+
+#配置网络，连接到激光雷达：
+sudo ifconfig enp2s0 up
+sudo ip addr add 192.168.1.200 dev enp2s0
+sudo route add -net 192.168.1.0 netmask 255.255.255.0 dev enp2s0
+tx2:
+sudo ifconfig eth1 up
+sudo ip addr add 192.168.1.200 dev eth1
+sudo route add -net 192.168.1.0 netmask 255.255.255.0 dev eth1
+# 加载标定文件并启动
+roslaunch velodyne_pointcloud VLP16_points.launch calibration:=/home/reed/workPalace/catkin_velodyne/VLP-16.yaml  
+tx2:
+roslaunch velodyne_pointcloud VLP16_points.launch calibration:=/home/nvidia/Desktop/VLP-16.yaml  
+# 实时显示VLP-16采集的点云并记录数据
+rosrun rviz rviz -f velodyne  
+rosbag record -O out /velodyne_points  
+
+# 离线播放pcap点云文件
+roslaunch velodyne_pointcloud VLP16_points.launch pcap:=/home/soowon/Documents/County_Fair.pcap
+rosrun velodyne_driver velodyne_node _model:=VLP16 _pcap:=/home/soowon/Documents/County_Fair.pcap
+rosrun velodyne_pointcloud cloud_node _calibration:=$(rospack find velodyne_poitncloud)/params/VLP16db.yaml
+rosrun rviz rviz -f velodyne 
+ 如何播放bag文件?
+
+# 启动loam 并播放数据
+roslaunch loam_velodyne loam_velodyne.launch
+rosbag play data_file_name.bag -r 0.5
+问题:这里是播放的原始数据, 还是处理过的点云呢? 
+
+
+
+

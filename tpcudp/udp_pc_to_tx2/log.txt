@@ -1,0 +1,4 @@
+open ok 
+getaddrinfo ok  
+i=0,parent	time_out pid = 5884
+i=0,child time_out1 pid = 0

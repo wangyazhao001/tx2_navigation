@@ -1,0 +1,19 @@
+客户端pc：ifconfig enp2s0 192.168.1.180
+	ping 192.168.1.190
+	showmount -e  192.168.1.190
+	sudo mount -t nfs 192.168.1.190:/home/nvidia/Documents/nfs_tx2_server /home/xc/Documents/nfs_pc_client	
+	
+	
+服务器tx2：sudo ifconfig eth0 192.168.1.190
+	ping 192.168.1.180
+	sudo /etc/init.d/nfs-kernel-server restart
+	sudo mount -t nfs 192.168.1.180:/home/xc/Documents/nfs_pc_server /home/nvidia/Documents/nfs_tx2_client
+	
+vim /etc/exports 修改服务器共享的文件夹
+
+双向了现在：
+192.168.1.190 TX2
+192.168.1.180 PC机
+
+TX2也有server分享
+PC也有server分享

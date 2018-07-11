@@ -1,0 +1,1260 @@
+you should choose mode
+1526997671 556744680
+deal GPRMC data---flag=4
+UTC:140111.00
+statu(A->valid V->invalid):A
+latitude:3156.33821
+N/S:N
+longitude:11847.55669
+E/W:E
+ground speed:0.040
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997671 557151010
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.040Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.074 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997671 561717943
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140111.00 
+latitude:3156.33821 
+N/S:N 
+longitude:11847.55669 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.8 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997671 561795510
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997671 561855349
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:36
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:26
+That's all GPGSV data
+------------------------------------------
+
+1526997671 561916244
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:25
+satellate ID:25
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:31
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997671 561972691
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:32
+satellate ID:32
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:29
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:31
+That's all GPGSV data
+------------------------------------------
+
+1526997671 562026578
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:31
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:31
+That's all GPGSV data
+------------------------------------------
+
+1526997671 562077777
+deal GPGLL data---flag=3
+latitude:3156.33821
+N/S:N
+longitude:11847.55669
+E/W:EUTC:140111.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997671 681593265
+can't deal with the datas with this style
+
+1526997671 735644830
+can't deal with the datas with this style
+
+1526997671 817542308
+can't deal with the datas with this style
+
+1526997671 871365909
+can't deal with the datas with this style
+
+1526997671 952461320
+can't deal with the datas with this style
+
+1526997672 913491772
+deal GPRMC data---flag=4
+UTC:140112.00
+statu(A->valid V->invalid):A
+latitude:3156.33821
+N/S:N
+longitude:11847.55672
+E/W:E
+ground speed:0.025
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997672 913691320
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.025Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.046 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997672 913774871
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140112.00 
+latitude:3156.33821 
+N/S:N 
+longitude:11847.55672 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.7 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997672 913859606
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997672 913946996
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:36
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:26
+That's all GPGSV data
+------------------------------------------
+
+1526997672 914032659
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:25
+satellate ID:25
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:31
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997672 914110514
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:32
+satellate ID:32
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:29
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:31
+That's all GPGSV data
+------------------------------------------
+
+1526997672 914185712
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:31
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:31
+That's all GPGSV data
+------------------------------------------
+
+1526997672 914254895
+deal GPGLL data---flag=3
+latitude:3156.33821
+N/S:N
+longitude:11847.55672
+E/W:EUTC:140112.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997672 914317486
+can't deal with the datas with this style
+
+1526997672 914366093
+can't deal with the datas with this style
+
+1526997672 914414285
+can't deal with the datas with this style
+
+1526997672 914462156
+can't deal with the datas with this style
+
+1526997672 914510187
+can't deal with the datas with this style
+
+1526997672 914557962
+can't deal with the datas with this style
+
+1526997672 914605769
+can't deal with the datas with this style
+
+1526997672 914653193
+can't deal with the datas with this style
+
+1526997672 914700680
+can't deal with the datas with this style
+
+1526997674 828705169
+deal GPRMC data---flag=4
+UTC:140113.00
+statu(A->valid V->invalid):A
+latitude:3156.33820
+N/S:N
+longitude:11847.55673
+E/W:E
+ground speed:0.016
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997674 828785104
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.016Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.029 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997674 828804816
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140113.00 
+latitude:3156.33820 
+N/S:N 
+longitude:11847.55673 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.7 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997674 828821999
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997674 828839055
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:37
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:25
+That's all GPGSV data
+------------------------------------------
+
+1526997674 828855631
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:25
+satellate ID:25
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:31
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:29
+That's all GPGSV data
+------------------------------------------
+
+1526997674 828871503
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:32
+satellate ID:32
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:29
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:31
+That's all GPGSV data
+------------------------------------------
+
+1526997674 828887214
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:31
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997674 828901358
+deal GPGLL data---flag=3
+latitude:3156.33820
+N/S:N
+longitude:11847.55673
+E/W:EUTC:140113.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997674 828914574
+can't deal with the datas with this style
+
+1526997674 828925742
+can't deal with the datas with this style
+
+1526997674 828935917
+can't deal with the datas with this style
+
+1526997674 828946061
+can't deal with the datas with this style
+
+1526997674 828956493
+can't deal with the datas with this style
+
+1526997674 828966541
+can't deal with the datas with this style
+
+1526997674 828977261
+can't deal with the datas with this style
+
+1526997674 828987277
+can't deal with the datas with this style
+
+1526997674 828997548
+can't deal with the datas with this style
+
+1526997674 829007244
+can't deal with the datas with this style
+
+1526997674 829016492
+can't deal with the datas with this style
+
+1526997674 829025804
+can't deal with the datas with this style
+
+1526997674 829035308
+can't deal with the datas with this style
+
+1526997674 829046508
+can't deal with the datas with this style
+
+1526997674 829056620
+can't deal with the datas with this style
+
+1526997674 829066539
+can't deal with the datas with this style
+
+1526997674 829075915
+can't deal with the datas with this style
+
+1526997674 829103531
+can't deal with the datas with this style
+
+1526997674 829114891
+deal GPRMC data---flag=4
+UTC:140114.00
+statu(A->valid V->invalid):A
+latitude:3156.33819
+N/S:N
+longitude:11847.55671
+E/W:E
+ground speed:0.083
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997674 829129098
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.083Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.153 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997674 829141962
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140114.00 
+latitude:3156.33819 
+N/S:N 
+longitude:11847.55671 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.8 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997674 829156778
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997674 829172138
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:36
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:25
+That's all GPGSV data
+------------------------------------------
+
+1526997674 829188969
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:24
+satellate ID:24
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:30
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:29
+That's all GPGSV data
+------------------------------------------
+
+1526997674 829205001
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:31
+satellate ID:31
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:28
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997674 829220425
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:29
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997674 829234153
+deal GPGLL data---flag=3
+latitude:3156.33819
+N/S:N
+longitude:11847.55671
+E/W:EUTC:140114.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997674 953428160
+can't deal with the datas with this style
+
+1526997678 654638654
+can't deal with the datas with this style
+
+1526997678 654890874
+deal GPRMC data---flag=4
+UTC:140115.00
+statu(A->valid V->invalid):A
+latitude:3156.33815
+N/S:N
+longitude:11847.55672
+E/W:E
+ground speed:0.095
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 654987768
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.095Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.176 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 655066903
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140115.00 
+latitude:3156.33815 
+N/S:N 
+longitude:11847.55672 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.9 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997678 655147606
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997678 655229524
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:38
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:25
+That's all GPGSV data
+------------------------------------------
+
+1526997678 655314035
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:24
+satellate ID:24
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:30
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:28
+That's all GPGSV data
+------------------------------------------
+
+1526997678 655392082
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:30
+satellate ID:30
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:28
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:30
+That's all GPGSV data
+------------------------------------------
+
+1526997678 655469008
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:30
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:29
+That's all GPGSV data
+------------------------------------------
+
+1526997678 655540239
+deal GPGLL data---flag=3
+latitude:3156.33815
+N/S:N
+longitude:11847.55672
+E/W:EUTC:140115.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997678 655605518
+can't deal with the datas with this style
+
+1526997678 655656493
+can't deal with the datas with this style
+
+1526997678 655708716
+can't deal with the datas with this style
+
+1526997678 655757516
+can't deal with the datas with this style
+
+1526997678 655806987
+can't deal with the datas with this style
+
+1526997678 655856138
+can't deal with the datas with this style
+
+1526997678 655905513
+can't deal with the datas with this style
+
+1526997678 655953929
+can't deal with the datas with this style
+
+1526997678 656002152
+can't deal with the datas with this style
+
+1526997678 656053063
+can't deal with the datas with this style
+
+1526997678 656102694
+can't deal with the datas with this style
+
+1526997678 656151109
+can't deal with the datas with this style
+
+1526997678 656204196
+can't deal with the datas with this style
+
+1526997678 656254756
+can't deal with the datas with this style
+
+1526997678 656303619
+can't deal with the datas with this style
+
+1526997678 656351682
+can't deal with the datas with this style
+
+1526997678 656400289
+can't deal with the datas with this style
+
+1526997678 656448576
+can't deal with the datas with this style
+
+1526997678 656495936
+can't deal with the datas with this style
+
+1526997678 656543807
+can't deal with the datas with this style
+
+1526997678 656591966
+deal GPRMC data---flag=4
+UTC:140116.00
+statu(A->valid V->invalid):A
+latitude:3156.33815
+N/S:N
+longitude:11847.55670
+E/W:E
+ground speed:0.123
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 656722076
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.123Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.228 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 656803259
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140116.00 
+latitude:3156.33815 
+N/S:N 
+longitude:11847.55670 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:31.9 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997678 656878745
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997678 656954744
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:36
+satellate ID:36
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:37
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:25
+That's all GPGSV data
+------------------------------------------
+
+1526997678 657032983
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:2
+the number of satellate:14
+satellate ID:09
+Elevation angle:10
+Azimuth:039
+Carrier to noise ratio:23
+satellate ID:23
+Elevation angle:12
+Azimuth:11
+Carrier to noise ratio:234
+satellate ID:29
+Elevation angle:13
+Azimuth:38
+Carrier to noise ratio:183
+satellate ID:15
+Elevation angle:11
+Azimuth:209
+Carrier to noise ratio:28
+That's all GPGSV data
+------------------------------------------
+
+1526997678 657109174
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:3
+the number of satellate:14
+satellate ID:19
+Elevation angle:17
+Azimuth:158
+Carrier to noise ratio:30
+satellate ID:30
+Elevation angle:25
+Azimuth:09
+Carrier to noise ratio:273
+satellate ID:28
+Elevation angle:29
+Azimuth:24
+Carrier to noise ratio:318
+satellate ID:30
+Elevation angle:11
+Azimuth:104
+Carrier to noise ratio:29
+That's all GPGSV data
+------------------------------------------
+
+1526997678 657184212
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:4
+the number of satellate:14
+satellate ID:42
+Elevation angle:43
+Azimuth:137
+satellate ID:29
+Elevation angle:50
+Azimuth:43
+Carrier to noise ratio:137
+satellate ID:50
+Elevation angle:43
+Azimuth:137
+Carrier to noise ratio:29
+That's all GPGSV data
+------------------------------------------
+
+1526997678 657255571
+deal GPGLL data---flag=3
+latitude:3156.33815
+N/S:N
+longitude:11847.55670
+E/W:EUTC:140116.00
+statu(A->vaild V->invalid):A
+locate model(A->auto D->differential E->estimate N->invaild):D
+------------------------------------------
+
+1526997678 657321298
+can't deal with the datas with this style
+
+1526997678 657371697
+can't deal with the datas with this style
+
+1526997678 657420849
+can't deal with the datas with this style
+
+1526997678 657472432
+can't deal with the datas with this style
+
+1526997678 657525071
+can't deal with the datas with this style
+
+1526997678 657574158
+can't deal with the datas with this style
+
+1526997678 657622765
+can't deal with the datas with this style
+
+1526997678 657716588
+can't deal with the datas with this style
+
+1526997678 657766891
+can't deal with the datas with this style
+
+1526997678 657816266
+can't deal with the datas with this style
+
+1526997678 657865001
+can't deal with the datas with this style
+
+1526997678 657912809
+can't deal with the datas with this style
+
+1526997678 657961096
+can't deal with the datas with this style
+
+1526997678 658009415
+can't deal with the datas with this style
+
+1526997678 658057350
+can't deal with the datas with this style
+
+1526997678 658104518
+deal GPRMC data---flag=4
+UTC:140117.00
+statu(A->valid V->invalid):A
+latitude:3156.33811
+N/S:N
+longitude:11847.55672
+E/W:E
+ground speed:0.092
+date:220518
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 658171332
+deal GPVYG data---flag=5
+True north:T
+magnetic:M
+ground speed(knots):0.092Fixed bytes(no meanings):N
+ground speed(kilometer/h):0.170 K
+model(A->auto D->differential E->estimate N->invalid):D
+------------------------------------------
+
+1526997678 658232771
+deal GPGGA data---flag=0  $GPGGA
+UTC_time:140117.00 
+latitude:3156.33811 
+N/S:N 
+longitude:11847.55672 
+E/W:E
+the mode of locatian(1-->SPS 2-->Differential 3-->PPS):2
+the number of satellate:12 
+HDOP:0.62 
+MSL:32.0 M
+sealevel:2.5 M
+Differential time:0000 
+That's $GPGGA all datas
+------------------------------------------
+
+1526997678 658302786
+deal GPGSA data---flag=1
+location mode1(M-->mannul A--->auto):A
+location mode2:3D mode
+access1(satellate):02
+access2:13
+access3:42
+access4:25
+access5(satellate):19
+access6:29
+access7:12
+access8:50
+access9(satellate):07
+access10:30
+access11:15
+access12:09
+PDOP:1.05
+HDOP:0.62
+VDOP:0.84
+That's $GPGSA all datas
+------------------------------------------
+
+1526997678 658376609
+deal GPGSV data---flag=2
+Number of messages:4
+message serial number:1
+the number of satellate:14
+satellate ID:02
+Elevation angle:70
+Azimuth:043
+Carrier to noise ratio:35
+satellate ID:35
+Elevation angle:05
+Azimuth:65
+Carrier to noise ratio:318
+satellate ID:37
+Elevation angle:06
+Azimuth:34
+Carrier to noise ratio:099
+satellate ID:07
+Elevation angle:10
+Azimuth:076
+Carrier to noise ratio:24
+That's all GPGSV data
+------------------------------------------
+
+totally 128 message got
+just list these datas
